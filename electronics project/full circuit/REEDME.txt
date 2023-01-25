@@ -1,0 +1,3 @@
+to avoid simulation error add a music file .wav then add to the audio generator U11(X0)
+
+add the hex code for each memory for EEPROM 1 add hex1 and so on
